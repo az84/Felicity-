@@ -45,7 +45,7 @@ export default function PaymentForm() {
                         id
                     })
 
-                    isFinite(response.data.success) {
+                    if(response.data.success) {
                         console.log("payment successful")
                         setSuccess(true)
                     }

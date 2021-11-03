@@ -28,19 +28,4 @@ const CheckoutForm = () => {
       </form>
     );
   };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
