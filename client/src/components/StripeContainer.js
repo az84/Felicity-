@@ -1,6 +1,7 @@
 import React from 'react'
 import { loadStripe } from '@stripe/stripe-js';
 import { Elements } from '@stripe/react-stripe-js';
+import PaymentForm from './PaymentForm';
 
 const PUBLIC_KEY = 'pk_test_51Jr7OKBQZv2PPJSNitiYDPzXHTWSMjGdR6jhfie4JvRIGUwV2TDFeHr2OfzMUCOtPy8Jlb5etEMUrdDEj0UpCKWx00WsDQPqEJ'
 
@@ -10,11 +11,6 @@ export default function FormContainer() {
     returrn (
         <Elements stripe={stripeTestPromise}>
             <PaymentForm />
-
-
-            
-
-
         </Elements>
     )
 
