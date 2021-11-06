@@ -1,6 +1,7 @@
 {
-  "name": "felicity",
-  "version": "1.0.0",
+  "name": "felicity-server",
+  "version": "0.1.0",
+  "private": true,
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -10,20 +11,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.4.0",
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.18.2",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.7",
-    "react-redux": "^7.2.1",
-    "redux": "^4.0.5",
-    "stripe": "^8.83.0"
+    "mongoose": "^5.10.10",
+    "stripe": "^8.119.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2",
-    "redux-devtools": "^3.6.0"
+    "nodemon": "^2.0.2"
   }
 }
