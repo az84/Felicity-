@@ -1,0 +1,57 @@
+.profileimg {
+    width:  150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.ordercard {
+    padding-bottom: 1.25rem!important;
+    padding-left: 1.25rem!important;
+    padding-top: 1.25rem!important;
+    padding-right: 1.25rem!important;
+}
+
+/* @media (max-width: 1024px) {
+    .profileimg {
+        width:  200px;
+        height: 200px;
+        object-fit: cover;
+    }
+    .card {
+        width: 75%;
+    }
+}
+
+@media (max-width: 720px) {
+    .profileimg {
+        width:  100px;
+        height: 100px;
+        object-fit: cover;
+    }
+    .card {
+        width: 75%;
+    }
+}
+
+@media (max-width: 660px) {
+    .profileimg {
+        width:  95px;
+        height: 95px;
+        object-fit: cover;
+    }
+    .card {
+        width: 75%;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)
+@media (min-width: 375px) {
+    .profileimg {
+        width:  50px;
+        height: 50px;
+        object-fit: cover;
+    }
+    .card {
+        width: 75%;
+    }
+}  */

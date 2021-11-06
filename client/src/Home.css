@@ -1,0 +1,43 @@
+h1 {
+    color: black;
+    /* opacity: ; */
+}
+
+.logo{
+    height: auto;
+    width: 100%;
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+.bus{
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;;
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.accessories {
+    height: 100%;
+    width: 100%;
+    background-image: url("");
+    background-size: cover;
+}
+
+.homegoods {
+    height: 100%;
+    width: 100%;
+    background-image: url("");
+    background-size: cover;
+}
+
+.pins {
+    height: 100%;
+    width: 100%;
+    background-image: url("");
+    background-size: cover;
+}
