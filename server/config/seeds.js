@@ -122,7 +122,7 @@ db.once('open', async () => {
             category: categories[4]._id,
             description:`Approximately 3-3.5" tall. These are bud vases, not full size vases. Handmade decorated. BIG size vases are 5" tall. These aren't the smaller bud vases, and are more comparable to a regular sized vase that holds more flowers.`,
             origin: `Made in USA`,
-            image: 'CeramicVase.png',
+            image: 'CeramicVase.jpg',
             price: 50.00,
             quantity: 15
         },
