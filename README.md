@@ -45,10 +45,10 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 ### Libraries and tools
 Stripe <br>
-MongoDB
-Express.JS
-React.JS
-Bootstrap
+MongoDB <br>
+Express.JS <br>
+React.JS <br>
+Bootstrap <br>
 
 
 ### GraphQL
@@ -100,5 +100,5 @@ Project is deployed on Heroku!
 ## Contact
 
 Created by: 
-Alina Zaidi https://github.com/az84
+Alina Zaidi https://github.com/az84 <br>
 Lucas DiFalco https://github.com/ldifalco
