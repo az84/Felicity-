@@ -44,6 +44,11 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 
 ### Libraries and tools
+Stripe
+MongoDB
+Express.JS
+React.JS
+Bootstrap
 
 
 ### GraphQL
