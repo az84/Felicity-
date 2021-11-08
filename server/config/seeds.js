@@ -27,7 +27,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Cottagecore cute 2 piece fall sweater plaid wool dress, Dark Academia Clothing,Fall dress',
+            name: 'Cottage-core cute 2 piece fall sweater plaid wool dress',
             description:
                 `Woven and Sewn Palm handmade by artisans in Mexico. Its traditional fedora style crown with a relatively short brim. The custom piping consisting of discarded and up-cycled fabric.
                 100% Palm
@@ -50,7 +50,7 @@ db.once('open', async () => {
             quantity: 20
         },
         {
-            name: 'Linen Face Mask with Nose Wire, Hight Quality Masks, Linen mask, Dust Mask, Adult and Kid Mask, 100% Natural Mask, Best mask, Face Cover',
+            name: 'Linen Face Mask',
             category: categories[1]._id,
             description:
                 `BALTIC BLOOM masks are high quality masks sewn with love and care; we are using high quality stone washed linen in many color variations.`,
@@ -70,7 +70,7 @@ db.once('open', async () => {
             quantity: 3
         },
         {
-            name: 'Everyday Bags toadstool mushroom handmade fungus felted handbags Shoulder Bags womens bags Felting Handbag designer bags stylish bags',
+            name: 'Handmade Felted Handbag',
             category: categories[2]._id,
             description:
                 `Elegant everyday bags with an interesting and unusual style, with elements of embroidery and three-dimensional felting. Comfortable to wear on the shoulder. Inside lining fabric , pocket for mobile phone, magnetic closure. Handmade from 100% wool. There is a hard bottom. Width Approx: 42 cm; 16.5 inches Height Approx: 32 cm; 12.5 inches For best result, hand wash in cold water and hang dry in the shade. PLEASE NOTE: The colors of some picture may slightly vary on different monitors. If you have any questions please do not hesitate to contact me!!! Is it a treat to yourself or a gift to your best friend. Thank you for visiting my shop.`,
@@ -80,7 +80,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Crossbody Felt Bag and Wood, Limited Edition, Long Handle Shoulder Graphite Felt Bag for Women, Stylish Magnetic Snap Everyday Bag for Her',
+            name: 'Long Handle Shoulder Graphite Felt Bag for Women.',
             category: categories[2]._id,
             description:
                 `Limited Edition Felt & Wood III is a Graphite Felt Bag designed with a long belt made of washable paper and wooden (oak) handle. It is an original design handmade using a magnetic snap and the user’s comfort
@@ -109,7 +109,7 @@ db.once('open', async () => {
             quantity: 25
         },
         {
-            name: 'Original painting,Large wall art,Boho wall décor,Flower painting, Color oil painting, Home decor, Modern art, Abstract art,Bedroom decor',
+            name: 'Boho Wall Décor',
             category: categories[4]._id,
             description: 'Original handmade oil painting, frameless/unstretched.',
             origin: `N/A`,
@@ -118,7 +118,7 @@ db.once('open', async () => {
             quantity: 30
         },
         {
-            name: 'Retro Eclectic Colorful Bud Vase/ Cute Ceramic Vase/ Rainbow Pot Planter/ Modern ceramic vase/ pastel color ceramics/ Boho home decor',
+            name: 'Retro Eclectic Colorful Ceramic Vase',
             category: categories[4]._id,
             description:`Approximately 3-3.5" tall. These are bud vases, not full size vases. Handmade decorated. BIG size vases are 5" tall. These aren't the smaller bud vases, and are more comparable to a regular sized vase that holds more flowers.`,
             origin: `Made in USA`,
@@ -127,7 +127,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Special Design Gold Mirrored Large Wall Clock, Round Luxury Unique Appearance, Real Mirror, Wall Mounted, Latin Numbers',
+            name: 'Special Design Gold Mirrored Large Wall Clock.',
             category: categories[4]._id,
             description:`It will illuminate your home, living room, bedroom or office, add a beautiful image and make you happy.`,
             origin: `Made in USA`,
@@ -136,7 +136,7 @@ db.once('open', async () => {
             quantity: 10
         },
         {
-            name: 'Ceramic Hanging Flower Plant Pots Sloth Wall Art Home Decor Animal Vase Garden Decoration Gift Ideas Wall Art Wall Decor',
+            name: 'Ceramic Hanging Flower Plant',
             category: categories[4]._id,
             description:`Creative Ceramic Hanging Flower Plant Pots sloth Animal Vase decoration.`,
             origin: `Made in the USA`,
