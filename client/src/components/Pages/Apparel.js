@@ -51,7 +51,7 @@ console.log("testing")
                 <div>
 
                 <Link to="/">
-                        ← Back to Home
+                         Back to Home
                 </Link>
 
                 <ProductList />

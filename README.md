@@ -37,6 +37,7 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 ## Technologies
 
+
 ### Architecture
 
 

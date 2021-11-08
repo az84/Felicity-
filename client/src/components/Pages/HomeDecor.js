@@ -51,7 +51,7 @@ console.log("testing")
                     <img src={require('../../assets/images/HomeDecor.png')} width="100%" height="100%" alt="Home Decor in retro style" />
 
                 <Link to="/">
-                        ← Back to Home
+                         Back to Home
                 </Link>
 
                 <ProductList />

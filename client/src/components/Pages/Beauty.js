@@ -52,7 +52,7 @@ console.log("testing")
             
 
                 <Link to="/">
-                        ← Back to Home
+                         Back to Home
                 </Link>
 
                 <ProductList />

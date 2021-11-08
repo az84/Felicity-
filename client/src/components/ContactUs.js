@@ -16,7 +16,7 @@ export const ContactUs = () => (
                   
           <p>Whether you have a question about our products, pricing, or anything else, our team is ready to answer your questions .</p>
           
-          <p className="text-center"> <Mailto email="zaidialina1@gmail.com" subject="General Inquiry" body="I'd like to ask about ..."><img src={require('../assets/images/email.png')} width="10%" height="10%" alt="Email Me" /></Mailto></p>
+          <p className="text-center contactMe "> <Mailto email="zaidialina1@gmail.com" subject="General Inquiry" body="I'd like to ask about ..."><img src={require('../assets/images/email.png')} width="10%" height="10%" alt="Email Me" /></Mailto></p>
       </Col>
     </Row>
   </Container>

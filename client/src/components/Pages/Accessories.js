@@ -49,7 +49,7 @@ console.log("testing")
                 <img src={require('../../assets/images/Accessories.png')} width="100%" height="100%" alt="Accessories in retro style" />
                 <div>
                 <Link to="/">
-                        ← Back to Home
+                         Back to Home
                 </Link>
 
                 <ProductList />

@@ -63,7 +63,7 @@ export const Home = () => (
         <Carousel.Item>
           <a href=""><img
             className="d-block w-100"
-            src={require('./assets/images/handmadeQuilt.jpeg')}
+            src={require('./assets/images/CeramicVase.jpg')}
             alt="Handmade Quilt"
           /> </a>
         </Carousel.Item>
