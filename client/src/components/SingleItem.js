@@ -52,7 +52,7 @@ function ProductItem(item) {
         <p className="text-center">{name}</p>
       </Link>
       <div>
-        <div>{quantity} in stock</div>
+        <div>{quantity} In stock</div>
         <span>${price}</span>
       </div>
       <button onClick={addToCart}>Add to cart</button>

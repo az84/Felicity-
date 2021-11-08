@@ -38,7 +38,9 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 ## Technologies
 
 
+
 ### Architecture
+
 
 
 ### Libraries and tools
@@ -48,11 +50,6 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 GraphQL is a query language for APIs and a runtime for fulfilling queries with existing data. In our application, we used it as an API to fetch data from our MongoDB database.
 
-You can play with GraphQL on the playground [here]().
-
-Here is how playground looks like with `query` example:
-
-![GQL Playground Video Demonstration]()
 
 ## Setup
 
