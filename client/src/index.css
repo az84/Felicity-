@@ -136,8 +136,8 @@ a {
 }
 
 .carousel img {
-  height: 550px;
-  padding: 30px;
+  height: 440px;
+  padding: 0px;
   margin: 40px;
   border-radius: 50%;
   margin-left: auto;
@@ -147,10 +147,11 @@ a {
   margin: 0 auto;
 }
 @media (max-width: 900px) {
-  .carousel-caption h2 {
+  .carousel {
     font-size: 2.5vw;
   }
 }
+
 
 /* Footer */
 footer {
