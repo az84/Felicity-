@@ -41,14 +41,26 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 ### Architecture
 
+![Tech Stack](https://i.imgur.com/O2kRTzS.png)
 
 
 ### Libraries and tools
-Stripe <br>
-MongoDB <br>
-Express.JS <br>
-React.JS <br>
-Bootstrap <br>
+
+[![](screenshots/nodejs.png)](https://nodejs.org/en/) [![](screenshots/express.png)](https://www.npmjs.com/package/express)
+
+[![](screenshots/bootstrap.png)](https://www.npmjs.com/package/bootstrap) [![](screenshots/apollo.png)](https://www.npmjs.com/package/apollo-server-express)
+
+[![](screenshots/mongodb.png)](http://wwww.mongodb.com/) [![](screenshots/graphql.png)](https://www.npmjs.com/package/graphql)
+
+[![](screenshots/styledcomponents.png)](https://www.npmjs.com/package/styled-components) [![](screenshots/react.png)](https://www.npmjs.com/package/react)
+
+[![](screenshots/reactscripts.png)](https://www.npmjs.com/package/react-scripts) [![](screenshots/reactboot.png)](https://www.npmjs.com/package/react-bootstrap)
+
+[![](screenshots/reactrouter.png)](https://www.npmjs.com/package/react-router-dom) [![](screenshots/stripe.png)](https://www.npmjs.com/package/stripe)
+
+[![](screenshots/heroku.png)](https://www.heroku.com) [![](screenshots/jsonwebtok.png)](https://www.npmjs.com/package/jsonwebtoken)
+
+[![](screenshots/mongoose.png)](https://www.npmjs.com/package/mongoose)
 
 
 ### GraphQL
