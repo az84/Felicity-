@@ -77,8 +77,12 @@ npm start
 npm run build
 ```
 
-
-## Code Examples
+Authentication using JSON Web Tokens (JWT).
+Option to add, edit, view and delete all the items in our store.
+Option to add items or remove items from the cart for the user.
+Display the total bill of the cart and update it as soon as the cart is updated by the user.
+Using Local Storage to store the JWT so that we only allow logged-in users to buy items.
+Option to pay using Stripe Checkout and thus creating a new order and emptying the cart after payment is successful.
 
 
 ## Features

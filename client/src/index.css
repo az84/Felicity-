@@ -6,10 +6,6 @@
   --dark: #6995a5;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 
 body {
   margin: 0;
@@ -96,37 +92,6 @@ button[disabled] {
   background-color: var(--base-color-primary);
 }
 
-/* carousel */
-.carousel-item-next,
-.carousel-item-prev,
-.carousel-item.active {
-  display: flex;
-}
-.carousel-caption {
-  position: absolute;
-  top: 0;
-}
-
-.carousel-caption h2 {
-  color: #fff;
-}
-
-.carousel img {
-  height: 300px;
-  padding: 30px;
-  margin: 40px;
-  border-radius: 50%;
-  margin-left: auto;
-  margin-right: auto;
-}
-.carousel a {
-  margin: 0 auto;
-}
-@media (max-width: 900px) {
-  .carousel-caption h2 {
-    font-size: 2.5vw;
-  }
-}
 
 img {
   height: 50%;
@@ -149,10 +114,42 @@ a {
 }
 
 .contactMe {
-  width: 25%;
+  width: 30%;
   height: 25%;
   display:flex;
   justify-content: center;
+}
+
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h2 {
+  color: #fff;
+}
+
+.carousel img {
+  height: 550px;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel a {
+  margin: 0 auto;
+}
+@media (max-width: 900px) {
+  .carousel-caption h2 {
+    font-size: 2.5vw;
+  }
 }
 
 /* Footer */
