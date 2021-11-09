@@ -37,7 +37,6 @@ function Success() {
             <br />
             <h1>Your order was successfully placed!</h1>
             <br />
-            <h4>I appreciate you supporting local and small businesses <br />in the surrounding San Antonio, TX area.</h4>
             <br />
             <h5>Please allow 3 to 4 business days for order processing.</h5>
             <br />
