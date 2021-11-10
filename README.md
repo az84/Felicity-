@@ -9,7 +9,7 @@
 
 - [Motivations](#motivations)
 - [Screenshots](#screenshots)
-- [Technologies](#technologies)
+- [Tools and Technologies](#toolsAndTechnologies)
 - [Setup](#setup)
 - [Features](#features)
 - [Status](#status)
@@ -35,16 +35,13 @@ This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
 ![Shop Page]()
 
-## Technologies
 
-
-
-### Architecture
+## Architecture
 
 ![Tech Stack](https://i.imgur.com/O2kRTzS.png)
 
 
-### Libraries and tools
+## Tools and Technology
 
 [![](screenshots/nodejs.png)](https://nodejs.org/en/) [![](screenshots/express.png)](https://www.npmjs.com/package/express)
 
@@ -70,17 +67,17 @@ GraphQL is a query language for APIs and a runtime for fulfilling queries with e
 
 ## Setup
 
-```
-npm install
-npm run launch
-```
+Download a copy of this repo to a directory of your choice. To install, you will need to run `npm i` or `npm install` to get all the dependencies running. Following proper installation of the dependencies, you will type `npm start` on the root directory terminal to start the server.
 
-In order to run GraphQL API to fetch data in [api directory](/api/v2/grapql-server/), run:
+To stop the server you will need to use the existing terminal to execute `CTRL+C` followed by `Y` for confirmation to terminate the connection to localhost.
 
-```
-npm install
-npm start
-```
+Please see documentation on your own host's server commands should you run this on a live instance rather than locally.
+
+## Usage
+Be sure all repository files were successfully cloned to server and a connection to the database is complete.
+
+Customers will have the ability to create an account through a signup form found on the `Navigation Bar` whereupon users can add items to their cart if so desired. Utilization of the `Navigation Bar` or homepage buttons will help customers select shopping items for purchase. Once items are stored in the cart, customers will be able to checkout via Stripe before being redirected back to the website
+
 
 ### Building
 
@@ -116,5 +113,5 @@ Project is deployed on Heroku!
 ## Contact
 
 Created by: 
-Alina Zaidi https://github.com/az84 <br>
-Lucas DiFalco https://github.com/ldifalco
+- [Alina Zaidi](https://github.com/az84)
+- [Lucas DiFalco](https://github.com/ldifalco)
