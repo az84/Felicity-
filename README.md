@@ -25,7 +25,8 @@ With experience in maintaining merchants' e-commerce stores, it felt natural to 
 
 This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
-Link to our website hosted on Heroku:[Felicity](https://rocky-fortress-93078.herokuapp.com/)
+
+Link to our website Felicity hosted on Heroku  [![Felicity](https://www.herokucdn.com/deploy/button.svg)](https://rocky-fortress-93078.herokuapp.com/) 
 
 ## Screenshots
 
