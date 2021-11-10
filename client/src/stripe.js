@@ -29,4 +29,23 @@ async function postCharge(req, res) {
   }
 }
 
+
+const session = await stripe.checkout.sessions.create({
+  mode: 'subscription',
+  payment_method_types: ['card'],
+  line_items: [
+    {
+      price: priceId,
+    
+      quantity: 1,
+    },
+  ],
+  
+  success_url: 'https://example.com/success.html?session_id={CHECKOUT_SESSION_ID}',
+  cancel_url: 'https://example.com/canceled.html'
+});
+
+
+
 module.exports = postCharge;
+
