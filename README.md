@@ -31,18 +31,35 @@ Link to our website hosted on Heroku: [Felicity](https://rocky-fortress-93078.he
 ## Screenshots
 
 <p align="center">Front Page</p>
+<img src="screenshots\FrontPage.jpg" width = "300" >
+<img src="screenshots\Carousel1.jpg" width = "300" >
+<img src="screenshots\Carousel2.jpg" width = "300" >
 
-![Front Page]()
 
-<p align="center">Shop Page</p>
+<p align="center">Shopping and Login/Create Account Pages</p>
 
-![Shop Page]()
+<img src="screenshots\ShopAll.jpg" width = "300" >
+<img src="" width = "300" >
+<img src="screenshots\CreateAccount.jpg" width = "300" >
+<img src="screenshots\Login1.jpg" width = "300" >
+
+<p align="center">Stripe Checkout</p>
+
+<img src="screenshots\CheckOut.jpg" width = "300" >
+<img src="screenshots\Capture.png" width = "600" height = "500" >
+<img src="screenshots\Stripe2.PNG" width = "550" height = "500" >
+<img src="screenshots\Stripe3.PNG" width = "550" height = "500" >
+
+<p align="center">
+<img src="screenshots\OrderHistory.jpg" width = "400" >
+</p>
+
+Customers will have the ability to create an account through a signup form found on the `Navigation Bar` whereupon users can add items to their cart if so desired. Utilization of the `Navigation Bar` or homepage buttons will help customers select shopping items for purchase. Once items are stored in the cart, customers will be able to checkout via Stripe before being redirected back to the website.
 
 
 ## Architecture
 
-![Tech Stack](https://i.imgur.com/O2kRTzS.png)
-
+<img src="https://i.imgur.com/O2kRTzS.png">
 
 ## Tools and Technology
 
@@ -79,7 +96,6 @@ Please see documentation on your own host's server commands should you run this 
 ## Usage
 Be sure all repository files were successfully cloned to server and a connection to the database is complete.
 
-Customers will have the ability to create an account through a signup form found on the `Navigation Bar` whereupon users can add items to their cart if so desired. Utilization of the `Navigation Bar` or homepage buttons will help customers select shopping items for purchase. Once items are stored in the cart, customers will be able to checkout via Stripe before being redirected back to the website
 
 
 ### Building
