@@ -56,7 +56,12 @@ function ProductItem(item) {
         <span>${price}</span>
       </div>
       <button onClick={addToCart}>Add to cart</button>
+
+      <div>....Or A Monthly Order!</div>
+          <button onClick={addToCart}>Add to cart with subscription</button>
+          <span>${price} per month</span>
     </div>
+   
     
   );
 }
