@@ -135,9 +135,9 @@ a {
   top: 0;
 }
 
-.carousel-caption h2 {
-  color: #fff;
-}
+/* .carousel-caption {
+  color: rgb(123, 107, 107);
+} */
 
 .carousel img {
   height: 440px;
@@ -149,6 +149,11 @@ a {
 }
 .carousel a {
   margin: 0 auto;
+  background-color: rgb(228, 228, 228);
+}
+
+.carousel-caption {
+  background-color: gray;
 }
 @media (max-width: 900px) {
   .carousel {
