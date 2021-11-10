@@ -19,14 +19,14 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Motivations
+
 The global pandemic has completely solidified the need for e-commerce. Where it used to be just one of many options we had when it came to making a purchase, e-commerce instead became the primary method of shopping. With all non-essential shops closed across the world for large swathes of 2020 and 2021, and an increasing number of us concerned about social distancing, shopping online became the norm and we saw dramatic e-commerce sales growth. 
 
 With experience in maintaining merchants' e-commerce stores, it felt natural to take the next step and develop an independent functioning e-commerce app.  Not only does this expand knowledge and experience in developing applications executing the MERN stack, but also gives a better understanding of maintaining apps that have already been established.  
 
 This is an eCommerce platform built with the MERN stack, Redux and GraphQL.
 
-
-Link to our website Felicity hosted on Heroku  [![Felicity](https://www.herokucdn.com/deploy/button.svg)](https://rocky-fortress-93078.herokuapp.com/) 
+Link to our website hosted on Heroku: [Felicity](https://rocky-fortress-93078.herokuapp.com/)
 
 ## Screenshots
 
@@ -102,13 +102,6 @@ Option to pay using Stripe Checkout and thus creating a new order and emptying t
 
 Considerations for improvement: 
 
-
-## Landing Page and Deployment
-
-
-Project is deployed on Heroku!
-
-[Felicity]()
 
 ## Inspiration
 
