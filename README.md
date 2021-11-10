@@ -30,25 +30,31 @@ Link to our website hosted on Heroku: [Felicity](https://rocky-fortress-93078.he
 
 ## Screenshots
 
-<p align="center">Front Page</p>
+<p align="center">Front Page
 <img src="screenshots\FrontPage.jpg" width = "300" >
 <img src="screenshots\Carousel1.jpg" width = "300" >
 <img src="screenshots\Carousel2.jpg" width = "300" >
 
+</p>
 
-<p align="center">Shopping and Login/Create Account Pages</p>
+
+<p align="center">Shopping and Login/Create Account Pages
 
 <img src="screenshots\ShopAll.jpg" width = "300" >
 <img src="" width = "300" >
 <img src="screenshots\CreateAccount.jpg" width = "300" >
 <img src="screenshots\Login1.jpg" width = "300" >
 
-<p align="center">Stripe Checkout</p>
+</p>
+
+<p align="center">Stripe Checkout
 
 <img src="screenshots\CheckOut.jpg" width = "300" >
 <img src="screenshots\Capture.png" width = "600" height = "500" >
 <img src="screenshots\Stripe2.PNG" width = "550" height = "500" >
 <img src="screenshots\Stripe3.PNG" width = "550" height = "500" >
+
+</p>
 
 <p align="center">
 <img src="screenshots\OrderHistory.jpg" width = "400" >
