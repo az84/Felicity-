@@ -40,7 +40,6 @@ Link to our website hosted on Heroku: [Felicity](https://rocky-fortress-93078.he
 <p align="center">Shopping and Login/Create Account Pages</p>
 <div class="container">
 <img src="screenshots\ShopAll.jpg" width = "300" >
-<img src="" width = "300" >
 <img src="screenshots\CreateAccount.jpg" width = "300" >
 <img src="screenshots\Login1.jpg" width = "300" >
 
@@ -49,7 +48,6 @@ Link to our website hosted on Heroku: [Felicity](https://rocky-fortress-93078.he
 <p align="center">Stripe Checkout</p>
 <div class="container">
 <img src="screenshots\CheckOut.jpg" width = "300" >
-<img src="screenshots\Saved.png" width = "600" height = "500" >
 <img src="screenshots\Stripe2.PNG" width = "550" height = "500" >
 <img src="screenshots\Stripe3.PNG" width = "550" height = "500" >
 
