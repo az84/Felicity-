@@ -58,7 +58,7 @@ function ProductItem(item) {
 
       <button onClick={addToCart}>Add to cart</button>
 
-      <div>....Or A Monthly Order!</div>
+      <div>Or A Monthly Order</div>
           <button onClick={addToCart}>Add to cart with subscription</button>
           <span>${price} per month</span>
 
