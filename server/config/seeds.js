@@ -27,7 +27,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Cottage-core cute 2 piece fall sweater plaid wool dress',
+            name: 'Cottage-core Two Piece Fall Sweater Plaid Wool Dress',
             description:
                 `Woven and Sewn Palm handmade by artisans in Mexico. Its traditional fedora style crown with a relatively short brim. The custom piping consisting of discarded and up-cycled fabric.
                 100% Palm
@@ -80,7 +80,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Long Handle Shoulder Graphite Felt Bag for Women.',
+            name: 'Long Handle Shoulder Graphite Felt Bag',
             category: categories[2]._id,
             description:
                 `Limited Edition Felt & Wood III is a Graphite Felt Bag designed with a long belt made of washable paper and wooden (oak) handle. It is an original design handmade using a magnetic snap and the user’s comfort
@@ -94,7 +94,7 @@ db.once('open', async () => {
             quantity: 3
         },
         {
-            name: 'Virgin Prickly Pear Seed Oil Organic (cold pressed, unrefined)',
+            name: 'Virgin Prickly Pear Organic Seed Oil',
             category: categories[3]._id,
             description:
                 `Virgin Prickly Pear Seed Oil Organic (cold pressed, unrefined) - secret of super hydrated skin, brightening, wrinkle-reducing, glowing skin.
@@ -127,7 +127,7 @@ db.once('open', async () => {
             quantity: 15
         },
         {
-            name: 'Special Design Gold Mirrored Large Wall Clock.',
+            name: 'Special Design Gold Mirrored Large Wall Clock',
             category: categories[4]._id,
             description:`It will illuminate your home, living room, bedroom or office, add a beautiful image and make you happy.`,
             origin: `Made in USA`,

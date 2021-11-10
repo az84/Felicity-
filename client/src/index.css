@@ -153,6 +153,24 @@ a {
 }
 
 
+button {
+  margin: 10px;
+  padding: 10px 20px 10px 10px;
+  color: white;
+  background-color: gray;
+  border: 2px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button, input, optgroup, select, textarea {
+  margin: 10px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
 /* Footer */
 footer {
   text-align: center;
