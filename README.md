@@ -1,9 +1,6 @@
 <p align="center">
   <img src="client\src\assets\images\Felicity.png" />
 </p>
-<!-- 
-# ![Logo](client\src\assets\images\Felicity.png)  -->
-
 
 ## Table of contents
 
@@ -11,9 +8,8 @@
 - [Screenshots](#screenshots)
 - [Tools and Technologies](#toolsAndTechnologies)
 - [Setup](#setup)
+- [Functionality](#functionality)
 - [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
 - [Contact](#contact)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -97,33 +93,38 @@ To stop the server you will need to use the existing terminal to execute `CTRL+C
 Please see documentation on your own host's server commands should you run this on a live instance rather than locally.
 
 ## Usage
-Be sure all repository files were successfully cloned to server and a connection to the database is complete.
 
+Be sure all repository files were successfully cloned to server and a connection to the database is complete. You will also need to signup for a free account at [mongodb.com](https://www.mongodb.com/). 
 
+## Functionality
 
-### Building
-
-
-```
-npm run build
-```
-
-Authentication using JSON Web Tokens (JWT).
-Option to add, edit, view and delete all the items in our store.
-Option to add items or remove items from the cart for the user.
-Display the total bill of the cart and update it as soon as the cart is updated by the user.
-Using Local Storage to store the JWT so that we only allow logged-in users to buy items.
-Option to pay using Stripe Checkout and thus creating a new order and emptying the cart after payment is successful.
-
+- Uses React for the front end.
+- Uses GraphQL with a Node.js and Express.js server.
+- Uses MongoDB and the Mongoose ODM for the database.
+- Uses queries and mutations for retrieving, adding, updating, and deleting data.
+- Deployed using Heroku (with data).
+- Meets the minimum requirements of a PWA: Uses a web manifest, Uses a service worker for offline functionality.
+- Offers a polished UI, is responsive and is interactive 
+- Includes authentication (JWT) and protects sensitive API key information on the server.
 
 ## Features
 
+- Authentication using JSON Web Tokens (JWT).
+- Option to add, view or remove items from the cart for the user.
+- Displays the total cost and update it as soon as more items are added by the user.
+- Payments are handled via external Stripe API, thus creating a new order and emptying the cart after payment is successful.
+- Cart data persists throughout browser sessions using localStorage.
 
 Considerations for improvement: 
 
-
-## Inspiration
-
+- Expand inventory models with options for stock quantity, size.
+- Better pop-up messages for error handling.
+- Allow the buyer/users to signup, login and reset password, search for products, save and edit shopping carts and complete orders online.
+- Send users confirmation emails about their orders and provide them customer support all in one place.
+- Build an admin dashboard and sales report chart so that it is easier for the seller to manage their inventories and orders .
+- Enable buyer to choose address on the google map.
+- Allow the sellers to send buyer notifications about the orders.
+- Provide online customer support such as chat with admin/seller.
 
 ## Contact
 
