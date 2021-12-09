@@ -2,7 +2,7 @@
     "name": "felicity-client",
     "version": "0.1.0",
     "private": true,
-    "proxy": "http://localhost:3001/",
+    "proxy": "http://localhost:3000/",
     "dependencies": {
         "@apollo/react-hooks": "^4.0.0",
         "@stripe/stripe-js": "^1.11.0",
